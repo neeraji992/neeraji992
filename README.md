@@ -1,16 +1,21 @@
-## Hi there 👋
+# Neeraj Thakur 
 
-<!--
-**neeraji992/neeraji992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me: 
+- Data Analyst
+- Data Scientist
+- Business Development Executive
 
-Here are some ideas to get you started:
+# Skills
+Python | Pandas | Numpy | Matplotlib | Seaborn | SQL | Power BI |
+Machine Learning | Flask | Excel | statistics | Deep Learnining | NLP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current Focus
+- AI Automation
+- Data Analysis
+- NLP
+- MLOps
+- Deep Learning
+
+## 📫 Connect With Me
+- Email Id: neeraj.thakur72@gmail.com
+- Linkdin : 

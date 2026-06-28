@@ -1,9 +1,15 @@
 # Neeraj Thakur 
 
-# About Me: 
-- Data Analyst
-- Data Scientist
-- Business Development Executive
+🚀 About Me
+
+Code. Analyze. Optimize. Scale.
+
+I work at the intersection of Data Science, AI, and Business Strategy — leveraging analytics and machine learning to solve real-world problems and accelerate business growth.
+
+⚡ Data Analytics
+⚡ Machine Learning
+⚡ Business Intelligence
+⚡ AI Automation
 
 # Skills
 Python | Pandas | Numpy | Matplotlib | Seaborn | SQL | Power BI |
